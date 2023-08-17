@@ -1,0 +1,5 @@
+(text)*CONSULT Day 3*: Introduction to Guesstimates
+(text)Guesstimate 1
+(pdf-Guesstimate 1)https://drive.google.com/u/0/uc?id=1yR2Fw3yM6zokWBfDrM0YCjsU-OfMz8Ms&export=download
+(text)Guesstimate 2
+(pdf-Guesstimate 2)https://drive.google.com/u/0/uc?id=1K1qzxEJWs82cAWEIRuAVTiotiPvN-WEq&export=download

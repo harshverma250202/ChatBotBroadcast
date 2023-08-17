@@ -1,0 +1,1 @@
+(text)*Software Development Day 4*: Make an interactive todo list\nhttps://www.youtube.com/watch?v=ykuD2QOZkhc&ab_channel=CodingNepal\n\nLet’s share your todolist with the world with Github\nhttps://product.hubspot.com/blog/git-and-github-tutorial-for-beginners

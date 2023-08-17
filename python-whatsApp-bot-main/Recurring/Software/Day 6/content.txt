@@ -1,0 +1,1 @@
+(text)*Software Development Day 7*: Created a project, let's show it the world\nhttps://realpython.com/flask-by-example-part-1-project-setup/

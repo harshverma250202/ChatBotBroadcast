@@ -1,0 +1,1 @@
+(text)*Software Development Day 2*: Let's do some designing using CSS\nhttps://www.youtube.com/watch?v=yfoY53QXEnI&list=RDCMUC29ju8bIPH5as8OGnQzwJyA&start_radio=1&rv=yfoY53QXEnI&t=1516&ab_channel=TraversyMedia\n\nFinding CSS too hard? Learn Bootstrap\nhttps://www.youtube.com/watch?v=4sosXZsdy-s&ab_channel=TraversyMedia

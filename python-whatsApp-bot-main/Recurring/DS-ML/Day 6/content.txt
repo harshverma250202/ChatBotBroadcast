@@ -1,0 +1,1 @@
+(text)*Data Science and Machine Learning Day 7*: Normal Equation\nhttps://towardsdatascience.com/performing-linear-regression-using-the-normal-equation-6372ed3c57

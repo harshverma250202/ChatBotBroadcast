@@ -1,0 +1,1 @@
+(text)*Data Science and Machine Learning Day 3*: Numpy\nCS231: https://cs231n.github.io/python-numpy-tutorial/ (Well organized tutorial to learn numpy)\nYoutube: https://www.youtube.com/watch?v=QUT1VHiLmmI (go through this video to get a good idea on Numpy)"
